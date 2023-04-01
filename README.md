@@ -1,4 +1,2 @@
-# Statistical_Analysis
-
-There are some projects within the world of statistics that need hands-on projects to be well understood!
-In this repository, I am trying to
+## Statistical Analysis
+Some statistical projects require practical experience to be fully comprehended. In this repository, I am endeavoring to execute a few small-scale projects in order to offer tangible illustrations for data analysis utilizing the R language.
