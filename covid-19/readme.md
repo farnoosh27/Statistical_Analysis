@@ -1,3 +1,4 @@
+## objective 
 The t-test is being used in this code to determine whether there is a statistically significant difference in the mean age between individuals who died and those who did not.
 
 The null hypothesis of the t-test is that the mean age of individuals who died is equal to the mean age of those who did not die. The alternative hypothesis is that the mean age of individuals who died is different from the mean age of those who did not die.
