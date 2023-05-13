@@ -12,7 +12,7 @@ This is the backbone of this project. ggplot2 is the most popular data visualiza
 ## dplyr
 This package is the lingua franca of data manipulation in R.
 
-## projects:
+## projects
 1) The introductory tutorial using R commands such as summary to load Iris dataset.
 2) This tutorial briefly shows you how to do statistical analysis using R, how to do t-test, linear regression, and explores libraries such as ggplot2 and dplyr.
 3) starwars-datacleaning: teaches how to filter out rows, and columns and how to deal with missing and duplicate values, at the end of the tutorial, it teaches how to reord categorical values.
