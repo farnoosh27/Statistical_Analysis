@@ -45,6 +45,7 @@ plt.scatter(x, y)
 9) Explain what factors are in R and when they are useful.
 
 Factors in R are used to represent categorical data or nominal data. They are used to store data that takes on a limited, predefined set of values, such as categories or levels. Factors are useful when you want to work with categorical data and perform operations like counting, grouping, and creating summary tables.
+
 10) What is the purpose of the aggregate() function in R?
 
 The aggregate() function in R is used to create summary statistics or perform calculations on subsets of data based on certain grouping variables. It's particularly useful for generating summary information for different categories within a dataset.
