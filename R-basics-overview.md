@@ -33,3 +33,16 @@ x <- c(1,2,3,4,5)
 y <- c(5,7,9,11,15)
 plot(x,y, main = "Scatter Plot")
 ```
+an equivalent for this in python can be: 
+```
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4, 5]
+y = [5, 7, 9, 11, 13]
+
+plt.scatter(x, y)
+plt.title('Scatter Plot')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.show()
+```
