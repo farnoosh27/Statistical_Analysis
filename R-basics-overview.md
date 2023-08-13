@@ -42,3 +42,6 @@ y = [5, 7, 9, 11, 13]
 
 plt.scatter(x, y)
 ```
+9) Explain what factors are in R and when they are useful.
+
+Factors in R are used to represent categorical data or nominal data. They are used to store data that takes on a limited, predefined set of values, such as categories or levels. Factors are useful when you want to work with categorical data and perform operations like counting, grouping, and creating summary tables.
